@@ -1,3 +1,5 @@
+# https://codeforces.com/problemset/problem/281/A
+
 import sys
 #-----------------------------------------------------------------------------#
 try:
@@ -10,3 +12,6 @@ finally:
     print = sys.stdout.write
 
 #-----------------------------------------------------------------------------#
+word = list(input())
+word[0] = word[0].upper()
+print("".join(word))
