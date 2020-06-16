@@ -1,1 +1,4 @@
-1110001
+aac
+c
+aba
+codeforces
