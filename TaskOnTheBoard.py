@@ -1,5 +1,5 @@
-# https://codeforces.com/contest/1367/problem/D
 import sys
+te  # https://codeforces.com/contest/1367/problem/D
 #-----------------------------------------------------------------------------#
 try:
     sys.stdin = open('inputs.txt', 'r')
